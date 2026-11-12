@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Poster Skills workflow</title>
+  <desc id="desc">Five stages: analyze the master, build the foundation, compose pages, verify visually, and export in 8K.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0c0f"/>
+      <stop offset="1" stop-color="#17171c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c7000b" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#c7000b"/>
+      <stop offset="1" stop-color="#c7000b" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="64" y="91" width="1472" height="1" fill="url(#line)"/>
+
+  <g font-family="Inter, Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="64" y="48" fill="#ffffff" font-size="20" font-weight="700" letter-spacing="1.5">ONE SKILL. A COMPLETE DELIVERY LOOP.</text>
+    <text x="1536" y="48" fill="#777780" font-size="14" text-anchor="end">从模板到高清交付，每一步都可验证</text>
+
+    <g transform="translate(64 122)">
+      <rect width="240" height="174" rx="16" fill="#1b1b21" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect width="48" height="4" rx="2" fill="#c7000b"/>
+      <text x="22" y="42" fill="#d71828" font-size="13" font-weight="700" letter-spacing="1.5">01 / ANALYZE</text>
+      <text x="22" y="82" fill="#ffffff" font-size="24" font-weight="700">拆解母版</text>
+      <text x="22" y="116" fill="#a4a4ad" font-size="15">Banner · 色彩 · 字体</text>
+      <text x="22" y="142" fill="#71717a" font-size="14">锁定整套设计不变量</text>
+    </g>
+    <text x="327" y="218" fill="#55555e" font-size="26">→</text>
+
+    <g transform="translate(366 122)">
+      <rect width="240" height="174" rx="16" fill="#1b1b21" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect width="48" height="4" rx="2" fill="#c7000b"/>
+      <text x="22" y="42" fill="#d71828" font-size="13" font-weight="700" letter-spacing="1.5">02 / BUILD</text>
+      <text x="22" y="82" fill="#ffffff" font-size="24" font-weight="700">搭建底座</text>
+      <text x="22" y="116" fill="#a4a4ad" font-size="15">16:9 · cqw / cqh</text>
+      <text x="22" y="142" fill="#71717a" font-size="14">让任意缩放保持比例</text>
+    </g>
+    <text x="629" y="218" fill="#55555e" font-size="26">→</text>
+
+    <g transform="translate(668 122)">
+      <rect width="240" height="174" rx="16" fill="#1b1b21" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect width="48" height="4" rx="2" fill="#c7000b"/>
+      <text x="22" y="42" fill="#d71828" font-size="13" font-weight="700" letter-spacing="1.5">03 / COMPOSE</text>
+      <text x="22" y="82" fill="#ffffff" font-size="24" font-weight="700">逐页设计</text>
+      <text x="22" y="116" fill="#a4a4ad" font-size="15">版式 · SVG · 本地素材</text>
+      <text x="22" y="142" fill="#71717a" font-size="14">让结构服务于内容表达</text>
+    </g>
+    <text x="931" y="218" fill="#55555e" font-size="26">→</text>
+
+    <g transform="translate(970 122)">
+      <rect width="240" height="174" rx="16" fill="#1b1b21" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect width="48" height="4" rx="2" fill="#c7000b"/>
+      <text x="22" y="42" fill="#d71828" font-size="13" font-weight="700" letter-spacing="1.5">04 / VERIFY</text>
+      <text x="22" y="82" fill="#ffffff" font-size="24" font-weight="700">视觉质检</text>
+      <text x="22" y="116" fill="#a4a4ad" font-size="15">截图 · 溢出 · 破图</text>
+      <text x="22" y="142" fill="#71717a" font-size="14">不看感觉，看渲染结果</text>
+    </g>
+    <text x="1233" y="218" fill="#55555e" font-size="26">→</text>
+
+    <g transform="translate(1272 122)">
+      <rect width="240" height="174" rx="16" fill="#1b1b21" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect width="48" height="4" rx="2" fill="#c7000b"/>
+      <text x="22" y="42" fill="#d71828" font-size="13" font-weight="700" letter-spacing="1.5">05 / EXPORT</text>
+      <text x="22" y="82" fill="#ffffff" font-size="24" font-weight="700">高清交付</text>
+      <text x="22" y="116" fill="#a4a4ad" font-size="15">4× 重渲染 · 8K PNG</text>
+      <text x="22" y="142" fill="#71717a" font-size="14">7680 × 4320 矢量级清晰</text>
+    </g>
+
+    <text x="64" y="334" fill="#5f5f68" font-size="12" font-weight="600" letter-spacing="2">REPEAT UNTIL EVERY PAGE LOOKS INTENTIONAL.</text>
+    <text x="1536" y="334" fill="#5f5f68" font-size="12" text-anchor="end" letter-spacing="1.5">CANFLYHANG / POSTER SKILLS</text>
+  </g>
+</svg>
